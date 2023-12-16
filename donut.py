@@ -2,6 +2,8 @@ import pygame as pg
 from numpy import array, cos, sin, pi, matmul, dot, sqrt
 import pygame.font
 
+# TODO: same sh!t, in terminal
+
 pygame.font.init()
 
 # CONSTANTS
